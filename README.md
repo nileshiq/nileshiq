@@ -123,13 +123,7 @@ I'm a **versatile Data & AI professional** with **4+ years of experience** spann
 
 ---
 
-## 🌍 Languages
-
-🇬🇧 **English** — Professional Working &nbsp;|&nbsp; 🇮🇳 **Hindi** — Native &nbsp;|&nbsp; 🇮🇳 **Gujarati** — Full Professional
-
----
-
 <p align="center">
   <i>"Turning raw data into real decisions."</i><br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=nileshiq&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
