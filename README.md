@@ -20,7 +20,6 @@ I'm a **versatile Data & AI professional** with **5+ years of experience** spann
 - 📊 Strong in **Power BI, Tableau, SQL, Spark** — turning data into decisions
 - 🏆 **80+ Projects** delivered across ML, NLP, Deep Learning, BI, and GenAI
 - ☁️ **AWS Certified Cloud Practitioner** | IABAC **Data Science Foundation** Certified
-- 🌍 Multilingual: **English · Hindi · Gujarati**
 
 ---
 
