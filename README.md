@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="mailto:nileshg0004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nilesh-gupta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/nilesh-gupta"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nileshiq/nilesh-gupta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/nileshiq/nilesh-gupta"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-Ahmedabad%2C%20India-informational?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
@@ -116,7 +116,7 @@ I'm a **versatile Data & AI professional** with **5+ years of experience** spann
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nileshiq&theme=default&hide_border=true"/>
 </p>
 
 ---
