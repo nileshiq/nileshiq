@@ -15,7 +15,7 @@
 
 I'm a **versatile Data & AI professional** with **5+ years of experience** spanning the full data lifecycle — from raw data ingestion and pipeline engineering to machine learning, deep learning, NLP, Generative AI, and production deployment.
 
-- 💼 Ex **TCS Analyst** | Data Science Intern @ **Rubixe AI** | Data Analyst @ **Jolly Motors**
+- 💼 Ex **TCS Analyst** | Data Science Consultant @ **Rubixe - AI Solutions Company** | Data Analyst @ **Jolly Motors**
 - 🤖 Hands-on with **LLMs, RAG Pipelines, LangChain, OpenAI API, and Prompt Engineering**
 - 📊 Strong in **Power BI, Tableau, SQL, Spark** — turning data into decisions
 - 🏆 **80+ Projects** delivered across ML, NLP, Deep Learning, BI, and GenAI
